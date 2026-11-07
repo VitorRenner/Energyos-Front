@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.vite/
+.DS_Store
+.env
+*.log
+Energyos/
+README-antigo.md
+COMO_ABRIR_O_FRONTEND.txt
